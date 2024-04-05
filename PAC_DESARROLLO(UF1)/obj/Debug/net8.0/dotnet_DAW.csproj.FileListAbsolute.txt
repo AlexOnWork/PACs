@@ -1,0 +1,14 @@
+/home/alexonwork/Documentos/dotnet_DAW/bin/Debug/net8.0/dotnet_DAW
+/home/alexonwork/Documentos/dotnet_DAW/bin/Debug/net8.0/dotnet_DAW.deps.json
+/home/alexonwork/Documentos/dotnet_DAW/bin/Debug/net8.0/dotnet_DAW.runtimeconfig.json
+/home/alexonwork/Documentos/dotnet_DAW/bin/Debug/net8.0/dotnet_DAW.dll
+/home/alexonwork/Documentos/dotnet_DAW/bin/Debug/net8.0/dotnet_DAW.pdb
+/home/alexonwork/Documentos/dotnet_DAW/obj/Debug/net8.0/dotnet_DAW.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexonwork/Documentos/dotnet_DAW/obj/Debug/net8.0/dotnet_DAW.AssemblyInfoInputs.cache
+/home/alexonwork/Documentos/dotnet_DAW/obj/Debug/net8.0/dotnet_DAW.AssemblyInfo.cs
+/home/alexonwork/Documentos/dotnet_DAW/obj/Debug/net8.0/dotnet_DAW.csproj.CoreCompileInputs.cache
+/home/alexonwork/Documentos/dotnet_DAW/obj/Debug/net8.0/dotnet_DAW.dll
+/home/alexonwork/Documentos/dotnet_DAW/obj/Debug/net8.0/refint/dotnet_DAW.dll
+/home/alexonwork/Documentos/dotnet_DAW/obj/Debug/net8.0/dotnet_DAW.pdb
+/home/alexonwork/Documentos/dotnet_DAW/obj/Debug/net8.0/dotnet_DAW.genruntimeconfig.cache
+/home/alexonwork/Documentos/dotnet_DAW/obj/Debug/net8.0/ref/dotnet_DAW.dll
